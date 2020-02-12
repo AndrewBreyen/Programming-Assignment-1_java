@@ -89,7 +89,7 @@ public class TopoSort {
 
  
 		System.out.println("Topological Sorting Order:");
-		topological.topologicalSort(node6);
+		topological.topologicalSort(node2);
 		
 		// Print contents of stack
 		Stack<Node> resultStack=topological.stack;

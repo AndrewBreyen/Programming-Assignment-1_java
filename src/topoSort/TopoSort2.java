@@ -1,5 +1,10 @@
 // this version changes how nodes are stored from TopoSort.java
-// Nodes are now stored in a Hash Map, with the key being a node, and the value being an ArrayList<Edge>
+// Nodes are now stored in a Hash Map, with the key being a node, and the value being an ArrayList<Edge>. Every Node has the ArrayList stored inside it???? not sure about this bit.
+
+//QUESTIONS / TODO:
+// Node class
+// make sure HashMap/stack/ArrayLists are being created in the right spot
+
 
 
 
